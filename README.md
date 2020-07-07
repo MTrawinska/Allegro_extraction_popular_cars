@@ -13,5 +13,6 @@ Functionality:
 TBD: addition of CRONE to automate data extraction
 
 Requirements: Jupiter notebook(Anaconda) and libraries: bs4, urllib, pandas, numpy, re, json, pytz
+Other: DRY/ PEP8
 
 !CODE ON DEMAND. Please contact me to see the code. 
