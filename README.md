@@ -13,7 +13,7 @@ Functionality:
 
 TBD: addition of CRONE to automate data extraction (eg. 7:50, Monday-Friday)
 
-Please have look on provided sample [HERE]( https://github.com/MTrawinska/Allegro_extraction_popular_cars/tree/master/database_allegro_Audi_database_2020-07-07)
+Please have look at provided data sample [HERE]( https://github.com/MTrawinska/Allegro_extraction_popular_cars/tree/master/database_allegro_Audi_database_2020-07-07)
 
 Requirements: Jupiter notebook(Anaconda) and libraries: bs4, urllib, pandas, numpy, re, json, pytz
 
