@@ -10,7 +10,7 @@ Functionality:
 3. extraction in data batches, creation of new folder with date stamp (Eastern Europe)
 4. data ready for further analysis and visualisation (Jupiter or SQL or Tableau)
 
-TBD: addition of CRONE to automate data extraction (eg. 7:50, Monday-friday)
+TBD: addition of CRONE to automate data extraction (eg. 7:50, Monday-Friday)
 
 Requirements: Jupiter notebook(Anaconda) and libraries: bs4, urllib, pandas, numpy, re, json, pytz
 
