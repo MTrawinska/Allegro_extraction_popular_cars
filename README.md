@@ -13,19 +13,19 @@ Functionality:
 
 TBD: addition of CRONE to automate data extraction (eg. 7:50, Monday-Friday)
 
-Please have look at provided data sample [HERE]( https://github.com/MTrawinska/Allegro_extraction_popular_cars/tree/master/database_allegro_Audi_database_2020-07-07)
-
 Requirements: Jupiter notebook(Anaconda) and libraries: bs4, urllib, pandas, numpy, re, json, pytz
 
 Other: DRY/ PEP8
 
 Extracted data in folder
 
-![folder](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/1.png)
+![folder](https://github.com/MTrawinska/Allegro_extraction_popular_cars/blob/master/baza.png)
 
 CSV file
 
-![csv](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/1.png)
+![csv](https://github.com/MTrawinska/Allegro_extraction_popular_cars/blob/master/audi.png)
+
+Please have look at extraxted data in csv file [HERE]( https://github.com/MTrawinska/Allegro_extraction_popular_cars/tree/master/database_allegro_Audi_database_2020-07-07)
 
 
 !CODE ON DEMAND. Please contact me to see the code. 
