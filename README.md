@@ -19,4 +19,13 @@ Requirements: Jupiter notebook(Anaconda) and libraries: bs4, urllib, pandas, num
 
 Other: DRY/ PEP8
 
+Extracted data in folder
+
+![folder](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/1.png)
+
+CSV file
+
+![csv](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/1.png)
+
+
 !CODE ON DEMAND. Please contact me to see the code. 
